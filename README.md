@@ -59,9 +59,13 @@ All LED's are connected to PWM-capable pins on the ATtiny85:
 
 ## 3D model
 
-![Regluar Fire]([/assets/images/tux.png](https://github.com/AchimPieters/HALLOWEEN-JACK-O-LANTERN-V2/blob/main/PCB_3D.png)
 
-![neon blue](/assets/images/tux.png)
+### Regular Setup
+<img src="https://raw.githubusercontent.com/AchimPieters/HALLOWEEN-JACK-O-LANTERN-V2/main/PCB_3D.png" style="height:200px;" />
+
+### Neonblue Setup
+<img src="https://raw.githubusercontent.com/AchimPieters/HALLOWEEN-JACK-O-LANTERN-V2/main/NEONBLUE.png" style="height:190px;" />
+
 
 
 ---
